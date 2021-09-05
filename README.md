@@ -37,3 +37,22 @@ First, thank you for being part of our workshop of Git and GitHub. This workshop
     - git merge
 - Merge Conflicts
 - Bonus: Resources
+
+## Installation Guide
+1. First go to your terminal, and type `git --version` to check whether the Git is installed or not in your system.
+2. If error message is seen, that means you have not installed Git.
+
+### For Windows
+3. Go to the [site](https://git-scm.com/download/win) `https://git-scm.com/download/win`. An executable will be automatically downloaded or you can manually select your system and start the downlaod.
+4. Run the executable file you have just downlaoded and follow the instructions.
+5. If you are facing the issues, you can refer to this [blog](https://phoenixnap.com/kb/how-to-install-git-windows).
+
+### For MAC
+3. Install homebrew first, if you havenot installed it yet. You can install homebrew form [here](https://brew.sh/). 
+4. Then open your termianl and type `brew install git` and press enter.
+
+### For Linux
+3. If you are using Ubuntu or Debian, in your terminal type `apt-get install git` and press enter.
+4. Else you can follow the instructions from [here](https://git-scm.com/download/linux).
+
+## Resources

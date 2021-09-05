@@ -56,3 +56,6 @@ First, thank you for being part of our workshop of Git and GitHub. This workshop
 4. Else you can follow the instructions from [here](https://git-scm.com/download/linux).
 
 ## Resources
+- [Git CheatSheet](https://education.github.com/git-cheat-sheet-education.pdf), contains the short description for most commonly used Git commands.
+- [Pro Git](https://git-scm.com/book/en/v2), is your fully-updated guide to Git and its usage in the modern world.
+- [Markdown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf), contains all the Markdown syntax you will need while beautifying your GitHub Repo.
